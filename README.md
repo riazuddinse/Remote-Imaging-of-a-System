@@ -4,16 +4,7 @@
 
 This project sets up an **agent-based remote imaging environment** using **FTK Imager**, enabling digital forensic investigators to perform remote disk imaging of suspect machines efficiently and securely. The captured disk images can be saved to a central file server and analyzed using forensic tools like **Autopsy**.
 
-
-### ![icons8-tools-24](https://github.com/user-attachments/assets/c5098d8c-f991-4d8e-944f-28b8cbdabd25) Tools Used
-
-- **FTK Imager** – Disk imaging tool.
-- **Autopsy** – Open-source digital forensic platform.
-- **Remote Access Protocols** – RDP, SSH, etc.
-- **Shared Fileserver** – Centralized secure storage.
-
-
-### 🧩 Components/Tools Involved
+### ![icons8-tools-24](https://github.com/user-attachments/assets/c5098d8c-f991-4d8e-944f-28b8cbdabd25) Components / Tools Involved
 
 1. **Workstation** Digital Forensic Investigator Workstation
 2. **Remote Suspect Machines** - Laptops/Desktops
