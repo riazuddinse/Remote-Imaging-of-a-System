@@ -12,6 +12,7 @@ This project sets up an **agent-based remote imaging environment** using **FTK I
 4. **Shared Fileserver** - Central Storage
 5. **Autopsy** - Forensic Analysis Tool
 6. **Remote Access Protocols** - Remote Desktop Protocol (RDP)
+7. **Virtual Box** - VirtualBox is a general-purpose full virtualization software, used for creating a suspect machine for demonstration purpose
 
 
 ### 🔁 Workflow Description
